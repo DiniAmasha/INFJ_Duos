@@ -15,10 +15,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-gateway" target="17" />
-      <module name="config-server" target="17" />
-      <module name="department-service" target="17" />
-      <module name="employee-service" target="17" />
-      <module name="service-registry" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
